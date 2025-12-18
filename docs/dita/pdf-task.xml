@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- PDF Text Start
+3 Upgrade and Migration Notes
+Information regarding firmware fallback and new parameter support introduced
+in version V6.5.0.224.
+Fallback Support
+Fallback to an earlier firmware version is supported. This may be required for
+troubleshooting or for environments where interoperability with other certified
+components needs to be preserved.
+PDF Text End
+-->
+<!-- Copilot: Convert the above PDF text into structured DITA content -->
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="pdf_task">
+  <title>PDF Content Conversion</title>
+  <taskbody>
+    <!-- Copilot: convert the PDF content into structured DITA paragraphs -->
+    <p>This section provides upgrade and migration notes for version V6.5.0.224, including information about firmware fallback and new parameter support.</p>
+    <context>
+      <title>Fallback Support</title>
+      <p>Fallback to an earlier firmware version is supported. This may be required for troubleshooting or for environments where interoperability with other certified components needs to be preserved.</p>
+    </context>  
+  </taskbody>
+</task>

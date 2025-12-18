@@ -1,0 +1,5 @@
+User Creation
+
+To create a user, provide a username and email.
+The system will return a unique user ID.
+Email verification is required.

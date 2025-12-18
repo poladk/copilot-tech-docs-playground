@@ -1,0 +1,12 @@
+<concept>
+  <!-- Explain the user creation process based on api.py and app_config.yaml.
+       Describe behavior, constraints, and assumptions in a neutral, human-readable way. -->
+    <title>Account Setup Overview</title>
+    <conceptbody>
+        <!-- Copilot: Check terminology consistency in this paragraph and suggest neutral phrasing aligned with style guide -->
+        <!-- Copilot: Translate the following paragraph into Greek while preserving technical accuracy and DITA structure -->
+        <p>Η διαδικασία δημιουργίας λογαριασμού ορίζει τα χαρακτηριστικά του λογαριασμού και τα αποθηκεύει στη βάση δεδομένων. Οι ρυθμίσεις διαμόρφωσης στο αρχείο app_config.yaml καθορίζουν τα απαιτούμενα πεδία και τους κανόνες επικύρωσης.</p>
+        <p>Κατά τη δημιουργία νέου χρήστη, το σύστημα ελέγχει τα υποχρεωτικά πεδία όπως το όνομα χρήστη, τον κωδικό πρόσβασης και τη διεύθυνση email. Επίσης, επιβάλλει περιορισμούς όπως η πολυπλοκότητα του κωδικού πρόσβασης και τα μοναδικά ονόματα χρηστών για να διασφαλίσει την ακεραιότητα και την ασφάλεια των δεδομένων.</p>
+        <p>Assumptions made during this process include the availability of a valid database connection and that the input data adheres to the expected formats as defined in the configuration file.</p>
+    </conceptbody>
+</concept>

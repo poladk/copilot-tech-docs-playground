@@ -1,0 +1,25 @@
+<task>task
+    <title>Install the Application</title>
+    <taskbody>
+    <prereq>
+        <p>Before you begin, ensure you have administrative privileges on your system.</p>
+    </prereq>
+        <p>This task describes how to install the application on your system.</p>
+        <!-- Expand the context paragraph to explain supported environments -->
+        <p>The application supports Windows, macOS, and Linux operating systems. Ensure your system meets the minimum hardware and software requirements before proceeding with the installation.</p>
+        <!  -- Add detailed steps for installation -->
+        <steps>
+            <step>
+                <cmd>Download the installer from the official website.</cmd>
+            </step>
+            <step>
+                <cmd>Run the installer and follow the on-screen instructions.</cmd>
+            </step>
+            <step>
+                <cmd>Once installation is complete, launch the application.</cmd>
+            <!-- Expand to include next steps -->
+                <info>After launching, you may need to configure initial settings such as user preferences and network configurations.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

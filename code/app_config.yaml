@@ -1,0 +1,3 @@
+user_service:
+  max_users: 1000
+  email_verification: true
