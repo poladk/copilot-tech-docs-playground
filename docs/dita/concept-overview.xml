@@ -5,8 +5,7 @@
     <conceptbody>
         <!-- Copilot: Check terminology consistency in this paragraph and suggest neutral phrasing aligned with style guide -->
         <!-- Copilot: Translate the following paragraph into Greek while preserving technical accuracy and DITA structure -->
-        <p>Η διαδικασία δημιουργίας λογαριασμού ορίζει τα χαρακτηριστικά του λογαριασμού και τα αποθηκεύει στη βάση δεδομένων. Οι ρυθμίσεις διαμόρφωσης στο αρχείο app_config.yaml καθορίζουν τα απαιτούμενα πεδία και τους κανόνες επικύρωσης.</p>
-        <p>Κατά τη δημιουργία νέου χρήστη, το σύστημα ελέγχει τα υποχρεωτικά πεδία όπως το όνομα χρήστη, τον κωδικό πρόσβασης και τη διεύθυνση email. Επίσης, επιβάλλει περιορισμούς όπως η πολυπλοκότητα του κωδικού πρόσβασης και τα μοναδικά ονόματα χρηστών για να διασφαλίσει την ακεραιότητα και την ασφάλεια των δεδομένων.</p>
+        <p>The user creation process involves several key steps to ensure that new accounts are set up correctly and securely. This includes validating user input, checking for existing accounts, and storing user information in the database. The process is designed to handle various edge cases, such as duplicate usernames and invalid email formats, to maintain data integrity and provide a smooth user experience.</p>    
         <p>Assumptions made during this process include the availability of a valid database connection and that the input data adheres to the expected formats as defined in the configuration file.</p>
     </conceptbody>
 </concept>
