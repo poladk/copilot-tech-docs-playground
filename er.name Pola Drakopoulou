@@ -1,3 +1,0 @@
-# This file previously contained personal Git configuration (user.name, user.email, remotes, etc.).
-# Such settings are user-specific and should not be committed to the repository.
-# Please add this file (or an appropriate pattern) to .gitignore and manage your Git config locally.
